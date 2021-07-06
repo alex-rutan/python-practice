@@ -64,3 +64,4 @@ def list_manipulation(lst, command, location, value=None):
         return lst
 
     return None
+    # CHECK OUT .POP() FOR BETTER USE HERE
